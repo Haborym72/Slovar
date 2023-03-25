@@ -1,0 +1,8 @@
+C:\Users\PAPA\source\repos\словарь\словарь\obj\Debug\словарь.csproj.AssemblyReference.cache
+C:\Users\PAPA\source\repos\словарь\словарь\obj\Debug\словарь.csproj.SuggestedBindingRedirects.cache
+C:\Users\PAPA\source\repos\словарь\словарь\obj\Debug\словарь.csproj.CoreCompileInputs.cache
+C:\Users\PAPA\source\repos\словарь\словарь\bin\Debug\словарь.exe.config
+C:\Users\PAPA\source\repos\словарь\словарь\bin\Debug\словарь.exe
+C:\Users\PAPA\source\repos\словарь\словарь\bin\Debug\словарь.pdb
+C:\Users\PAPA\source\repos\словарь\словарь\obj\Debug\словарь.exe
+C:\Users\PAPA\source\repos\словарь\словарь\obj\Debug\словарь.pdb
